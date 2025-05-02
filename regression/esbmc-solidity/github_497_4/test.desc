@@ -1,0 +1,4 @@
+CORE
+MyContract_underflow_loop.solast
+--incremental-bmc --sol MyContract_underflow_loop.sol
+^VERIFICATION FAILED$

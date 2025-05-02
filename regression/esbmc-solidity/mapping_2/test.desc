@@ -1,0 +1,4 @@
+CORE
+contract.solast
+--sol contract.sol --unwind 3 --no-unwinding-assertions --quiet --no-pointer-check --z3
+^VERIFICATION FAILED$

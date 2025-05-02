@@ -1,0 +1,4 @@
+CORE
+inheritance.solast
+--function test_inheritance --sol inheritance.sol --no-standard-checks
+^VERIFICATION SUCCESSFUL$
