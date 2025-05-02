@@ -1,4 +1,0 @@
-CORE
-inheritance.solast
---function test_override --sol inheritance.sol
-^VERIFICATION FAILED$

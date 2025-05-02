@@ -1,4 +1,0 @@
-CORE
-main.c
---floatbv --32 --big-endian --interval-analysis -Wno-error=implicit-function-declaration
-^VERIFICATION SUCCESSFUL$

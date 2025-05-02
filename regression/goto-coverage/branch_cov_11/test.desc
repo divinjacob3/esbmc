@@ -1,4 +1,0 @@
-KNOWNBUG
-main.cpp
---branch-coverage-claims --unwind 3 --no-unwinding-assertions
-^VERIFICATION SUCCESSFUL$

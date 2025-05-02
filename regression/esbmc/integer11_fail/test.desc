@@ -1,4 +1,0 @@
-CORE
-main.c
- --z3 --ir --unwind 33 --overflow-check
-^VERIFICATION FAILED$

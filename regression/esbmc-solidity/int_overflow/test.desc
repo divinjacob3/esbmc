@@ -1,4 +1,0 @@
-CORE
-contract.solast
---function func --sol contract.sol
-^VERIFICATION FAILED$

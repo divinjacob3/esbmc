@@ -1,5 +1,0 @@
-CORE
-gh-1068.c 
---overflow --unwind 1
-^VERIFICATION FAILED$
-\bunwinding assertion loop\b

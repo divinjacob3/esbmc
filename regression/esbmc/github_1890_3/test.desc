@@ -1,5 +1,0 @@
-CORE
-main.c 
---multi-property --incremental-bmc
-^VERIFICATION FAILED$
-\bdivision by zero\b

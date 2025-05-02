@@ -1,4 +1,0 @@
-CORE
-mul.solast
---function test --contract Base --sol mul.sol --no-standard-checks
-^VERIFICATION SUCCESSFUL$

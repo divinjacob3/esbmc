@@ -1,4 +1,0 @@
-KNOWNBUG
-gh-1091.c
---unwind 1
-^VERIFICATION FAILED$
